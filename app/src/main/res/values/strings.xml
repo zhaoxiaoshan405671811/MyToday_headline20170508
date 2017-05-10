@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyToday_headline20170508</string>
+    <dimen name="slidingmenu_offset">60dp</dimen>
+    <dimen name="shadow_width">15dp</dimen>
+</resources>
